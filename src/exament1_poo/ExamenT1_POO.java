@@ -17,7 +17,7 @@ public class ExamenT1_POO {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        System.out.println("Mensaje nuevo");
         Scanner sc = new Scanner(System.in);
         GestionProductoT1 gestion = new GestionProductoT1();
         int opcion;
